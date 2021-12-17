@@ -1,1 +1,1 @@
-# code-refactor
+HTML and CSS editing for company in order to improve accessibility in code
